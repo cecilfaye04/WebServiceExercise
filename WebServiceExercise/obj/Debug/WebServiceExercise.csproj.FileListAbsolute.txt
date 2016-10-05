@@ -1,0 +1,12 @@
+C:\Users\Bootcamp\Source\Repos\FirstProject\WebServiceExercise\WebServiceExercise\bin\Debug\WebServiceExercise.exe.config
+C:\Users\Bootcamp\Source\Repos\FirstProject\WebServiceExercise\WebServiceExercise\bin\Debug\WebServiceExercise.exe
+C:\Users\Bootcamp\Source\Repos\FirstProject\WebServiceExercise\WebServiceExercise\bin\Debug\WebServiceExercise.pdb
+C:\Users\Bootcamp\Source\Repos\FirstProject\WebServiceExercise\WebServiceExercise\obj\Debug\WebServiceExercise.csprojResolveAssemblyReference.cache
+C:\Users\Bootcamp\Source\Repos\FirstProject\WebServiceExercise\WebServiceExercise\obj\Debug\WebServiceExercise.Form1.resources
+C:\Users\Bootcamp\Source\Repos\FirstProject\WebServiceExercise\WebServiceExercise\obj\Debug\WebServiceExercise.Properties.Resources.resources
+C:\Users\Bootcamp\Source\Repos\FirstProject\WebServiceExercise\WebServiceExercise\obj\Debug\WebServiceExercise.csproj.GenerateResource.Cache
+C:\Users\Bootcamp\Source\Repos\FirstProject\WebServiceExercise\WebServiceExercise\obj\Debug\WebServiceExercise.exe
+C:\Users\Bootcamp\Source\Repos\FirstProject\WebServiceExercise\WebServiceExercise\obj\Debug\WebServiceExercise.pdb
+C:\Users\Bootcamp\Source\Repos\WebServiceExercise\WebServiceExercise\bin\Debug\WebServiceExercise.exe.config
+C:\Users\Bootcamp\Source\Repos\WebServiceExercise\WebServiceExercise\obj\Debug\WebServiceExercise.exe
+C:\Users\Bootcamp\Source\Repos\WebServiceExercise\WebServiceExercise\obj\Debug\WebServiceExercise.pdb
